@@ -1,3 +1,4 @@
 # Node.js basics
 
-## !!! Please don't submit Pull Requests to this repository !!!
+[Please, see the develop branch :)](https://github.com/HaarDD/node-nodejs-basics/tree/develop)
+Thanks!
